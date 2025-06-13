@@ -1,0 +1,4 @@
+com\pages\HomePage.class
+com\pages\LoginPage.class
+com\pages\RegisterPage.class
+com\utils\ExtentReportManager.class

@@ -1,0 +1,4 @@
+com\tests\LoginTest.class
+com\listeners\TestListener.class
+com\base\Base.class
+com\tests\RegisterTest.class
