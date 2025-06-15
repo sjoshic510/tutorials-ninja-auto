@@ -1,4 +1,5 @@
 com\tests\LoginTest.class
 com\listeners\TestListener.class
+com\tests\AddItemAndVerifyTest.class
 com\base\Base.class
 com\tests\RegisterTest.class

@@ -1,3 +1,4 @@
+com\pages\DashboardPage.class
 com\pages\HomePage.class
 com\pages\LoginPage.class
 com\pages\RegisterPage.class
